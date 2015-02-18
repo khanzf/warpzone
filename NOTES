@@ -1,0 +1,5 @@
+ICMP packet ID must be the same
+Code is always 0
+Sequence changes - random
+
+sudo sysctl net.ipv4.icmp_echo_ignore_all=1

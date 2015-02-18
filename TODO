@@ -1,0 +1,12 @@
+TODO list
+* Encryption - Keybased or password-based?
+* Set MTU in Tun/Tap interface
+* Full Duplex
+* Bugs!!!
+* Two separate protocols at same time
+
+Protocols
+* ICMP
+* Email?
+* Arp
+* IPv6 Traffic

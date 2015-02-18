@@ -1,0 +1,19 @@
+Must have the latest version of python:
+
+Remove your current version of Twisted and install the latest
+
+sudo apt-get remove python-twisted
+sudo apt-get install python-pip
+
+Requires Python-Twisted 14.0
+
+sudo pip install twisted
+or
+sudo pip install --upgrade twisted
+
+
+python python-twisted python-pip
+sudo pip install twisted
+sudo pip install --upgrade twisted
+
+To read the way I did in vi, do :set ts=3
